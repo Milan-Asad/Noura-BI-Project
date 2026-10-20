@@ -15,3 +15,4 @@ NOURA is a fictional UK modest-fashion and lifestyle retailer, operating across 
 <img width="1296" height="722" alt="image" src="https://github.com/user-attachments/assets/bd6057f6-9214-49cb-9bb1-da299c41d257" />
 <img width="1297" height="722" alt="image" src="https://github.com/user-attachments/assets/a2bff2ae-00b9-4869-8b09-d99caf645728" />
 <img width="1300" height="722" alt="image" src="https://github.com/user-attachments/assets/a1cae46e-a317-4292-a486-2c72be37444c" />
+<img width="1287" height="717" alt="image" src="https://github.com/user-attachments/assets/2dc4c368-116e-4b97-a09a-abbb63afce0e" />
